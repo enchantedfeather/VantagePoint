@@ -1,4 +1,5 @@
-# VantagePoint-WebsiteVantagePoint Group Logo Welcome to VantagePoint Group
+# VantagePoint-WebsiteVantagePoint Group <img src="logo.jpg" alt="VantagePoint Group Logo">
+ Welcome to VantagePoint Group
 Home About Services Our Team Contact
 Home
 Providing world-class consulting services tailored to your business needs. Explore Our Services
